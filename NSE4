@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T11:23:07.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EsaDF51G8RDiAeFCjPgJ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T15:21:00.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="naHKTO9JRA1BwyKsFf-w" version="21.0.2" type="github">
   <diagram name="Page-1" id="rVNxQuFcONPeFaOpuHLU">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="yt5ZDeFATkN7WT4lmwo6-34" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="275" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yt5ZDeFATkN7WT4lmwo6-35" value="&lt;b&gt;management ports&amp;nbsp;&lt;br&gt;&lt;br&gt;192.168.1.71-74&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640.5" y="315" width="130" height="60" as="geometry" />
+        <mxCell id="yt5ZDeFATkN7WT4lmwo6-35" value="&lt;b&gt;management port = port3/port4&lt;br&gt;&lt;br&gt;192.168.1.71-74&lt;br&gt;&lt;br&gt;username=admin&lt;br&gt;password: 1234&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yt5ZDeFATkN7WT4lmwo6-36" value="home/pyhsical network&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="145" width="150" height="30" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="yt5ZDeFATkN7WT4lmwo6-42" value="172.16.1.0&lt;br&gt;&lt;br&gt;DMZ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yt5ZDeFATkN7WT4lmwo6-45" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="155" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
