@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T15:21:00.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="naHKTO9JRA1BwyKsFf-w" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T15:27:13.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2-eCA7V0pmWAfiwt1yZx" version="21.0.2" type="github">
   <diagram name="Page-1" id="rVNxQuFcONPeFaOpuHLU">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="yt5ZDeFATkN7WT4lmwo6-45" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yt5ZDeFATkN7WT4lmwo6-46" value="Bootstraping&lt;br&gt;1. make sure you set a default route to the internet for all&amp;nbsp; traffice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="410" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
