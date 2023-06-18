@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T12:14:40.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hbmok90AylKW30xmPHAD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T12:39:38.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Upti3WZm6vH0XWakF3bd" version="21.2.9" type="github">
   <diagram name="Page-1" id="OoNo341gzDxxcAl_FbLh">
     <mxGraphModel dx="954" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="safV4jgdehK6xCU3Anq1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="safV4jgdehK6xCU3Anq1-3" target="safV4jgdehK6xCU3Anq1-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="safV4jgdehK6xCU3Anq1-3" value="FORTICLIENT VM&lt;br&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+        <mxCell id="safV4jgdehK6xCU3Anq1-3" value="FORTICLIENT EMS VM&lt;br&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="496" y="360" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="safV4jgdehK6xCU3Anq1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="safV4jgdehK6xCU3Anq1-9">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="safV4jgdehK6xCU3Anq1-28" value="Users&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="408" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="safV4jgdehK6xCU3Anq1-29" value="Windows Server 2022&lt;br&gt;Hyper-v" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="233" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
